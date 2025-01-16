@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "lucky-field-bb85",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "479ac0e2-9a9d-4e70-8660-fc266d6c0c32",
+      "database_name": "lucky-field-bb85-database"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
